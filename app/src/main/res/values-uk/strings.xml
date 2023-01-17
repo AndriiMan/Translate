@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Переклад</string>
+    <string name="learn_words_picture">вчи words picture</string>
+    <string name="learn_new_words_daily">Нові слова щодня!</string>
+    <string name="quiz_picture">Квіз для тебе</string>
+    <string name="take_quiz">Прийми участь</string>
+    <string name="progress_picture">Проргес картинка</string>
+    <string name="check_progress">Прогрес</string>
+    <string name="splash_screen_image">Сплеш картинка</string>
+    <string name="see_progress">Перевір свій прогрес</string>
+    <string name="goto_home">Перейти додому</string>
+    <string name="result">Результат</string>
+    <string name="question_and_answers">Питання і відповіді</string>
+    <string name="submit">Підтвердити</string>
+    <string name="quiz_completed">Закінчено</string>
+    <string name="tick_mark_animation">Тік марк анімація</string>
+    <string name="word">Слово</string>
+    <string name="meaning">Значення</string>
+    <string name="your_score">Твій скор</string>
+    <string name="result_image">Зображення в резалті</string>
+    <string name="score">Рахунок</string>
+    <string name="most_recent_quiz_score">Останній рахунок</string>
+    <string name="total_quizzes_taken">Номер питання</string>
+    <string name="change_language">Мова</string>
+</resources>
